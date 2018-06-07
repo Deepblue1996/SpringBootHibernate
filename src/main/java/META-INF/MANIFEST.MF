@@ -1,25 +1,31 @@
 Manifest-Version: 1.0
-Class-Path: jboss-logging-3.3.2.Final.jar javax.annotation-api-1.3.2.j
- ar jackson-datatype-jsr310-2.9.5.jar spring-tx-5.0.6.RELEASE.jar spri
- ng-context-5.0.6.RELEASE.jar spring-beans-5.0.6.RELEASE.jar mybatis-s
- pring-boot-autoconfigure-1.3.2.jar mchange-commons-java-0.2.11.jar sp
- ring-core-5.0.6.RELEASE.jar spring-boot-starter-2.0.2.RELEASE.jar spr
- ing-boot-starter-jdbc-2.0.2.RELEASE.jar spring-boot-starter-json-2.0.
- 2.RELEASE.jar logback-core-1.2.3.jar tomcat-embed-websocket-8.5.31.ja
- r tomcat-embed-el-8.5.31.jar c3p0-0.9.5.2.jar spring-boot-autoconfigu
- re-2.0.2.RELEASE.jar logback-classic-1.2.3.jar hibernate-validator-6.
- 0.9.Final.jar spring-boot-starter-web-2.0.2.RELEASE.jar spring-boot-2
- .0.2.RELEASE.jar classmate-1.3.4.jar spring-expression-5.0.6.RELEASE.
- jar mysql-connector-java-5.1.46.jar spring-aop-5.0.6.RELEASE.jar myba
- tis-spring-1.3.2.jar spring-boot-starter-logging-2.0.2.RELEASE.jar my
- batis-3.4.6.jar spring-jdbc-5.0.6.RELEASE.jar jackson-core-2.9.5.jar 
- slf4j-api-1.7.25.jar snakeyaml-1.19.jar mybatis-spring-boot-starter-1
- .3.2.jar jackson-databind-2.9.5.jar log4j-api-2.10.0.jar HikariCP-2.7
- .9.jar spring-jcl-5.0.6.RELEASE.jar jackson-module-parameter-names-2.
- 9.5.jar spring-web-5.0.6.RELEASE.jar jul-to-slf4j-1.7.25.jar spring-w
- ebmvc-5.0.6.RELEASE.jar jackson-datatype-jdk8-2.9.5.jar spring-boot-s
- tarter-tomcat-2.0.2.RELEASE.jar jackson-annotations-2.9.0.jar log4j-t
- o-slf4j-2.10.0.jar validation-api-2.0.1.Final.jar tomcat-embed-core-8
- .5.31.jar
+Class-Path: snakeyaml-1.19.jar aspectjweaver-1.8.13.jar spring-orm-5.0
+ .6.RELEASE.jar spring-boot-starter-json-2.0.2.RELEASE.jar spring-bean
+ s-5.0.6.RELEASE.jar jackson-annotations-2.9.0.jar spring-boot-starter
+ -jdbc-2.0.2.RELEASE.jar spring-boot-autoconfigure-2.0.2.RELEASE.jar j
+ andex-1.1.0.Final.jar spring-web-5.0.6.RELEASE.jar validation-api-2.0
+ .1.Final.jar c3p0-0.9.5.2.jar dom4j-1.6.1.jar spring-boot-2.0.2.RELEA
+ SE.jar javassist-3.18.1-GA.jar spring-data-jpa-2.0.7.RELEASE.jar hibe
+ rnate-validator-6.0.9.Final.jar jackson-datatype-jsr310-2.9.5.jar spr
+ ing-expression-5.0.6.RELEASE.jar log4j-to-slf4j-2.10.0.jar classmate-
+ 1.3.4.jar tomcat-embed-core-8.5.31.jar spring-boot-starter-web-2.0.2.
+ RELEASE.jar spring-aop-5.0.6.RELEASE.jar mysql-connector-java-5.1.46.
+ jar spring-aspects-5.0.6.RELEASE.jar hibernate-commons-annotations-4.
+ 0.4.Final.jar logback-classic-1.2.3.jar spring-boot-starter-data-jpa-
+ 2.0.2.RELEASE.jar spring-jdbc-5.0.6.RELEASE.jar spring-context-5.0.6.
+ RELEASE.jar spring-core-5.0.6.RELEASE.jar log4j-api-2.10.0.jar jul-to
+ -slf4j-1.7.25.jar hibernate-core-4.3.5.Final.jar spring-jcl-5.0.6.REL
+ EASE.jar tomcat-embed-websocket-8.5.31.jar jboss-logging-annotations-
+ 1.2.0.Beta1.jar logback-core-1.2.3.jar jackson-databind-2.9.5.jar spr
+ ing-boot-starter-logging-2.0.2.RELEASE.jar spring-tx-5.0.6.RELEASE.ja
+ r spring-webmvc-5.0.6.RELEASE.jar spring-boot-starter-2.0.2.RELEASE.j
+ ar antlr-2.7.7.jar HikariCP-2.7.9.jar jackson-datatype-jdk8-2.9.5.jar
+  javax.annotation-api-1.3.2.jar jackson-module-parameter-names-2.9.5.
+ jar slf4j-api-1.7.25.jar tomcat-embed-el-8.5.31.jar javax.transaction
+ -api-1.2.jar hibernate-jpa-2.1-api-1.0.0.Final.jar spring-data-common
+ s-2.0.7.RELEASE.jar spring-boot-starter-aop-2.0.2.RELEASE.jar jackson
+ -core-2.9.5.jar jboss-transaction-api_1.2_spec-1.0.0.Final.jar spring
+ -boot-starter-tomcat-2.0.2.RELEASE.jar jboss-logging-3.3.2.Final.jar 
+ mchange-commons-java-0.2.11.jar
 Main-Class: com.prohua.demo.DemoApplication
 
